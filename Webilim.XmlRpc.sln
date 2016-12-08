@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webilim.Tests.XmlRpc", "Webilim.Tests.XmlRpc\Webilim.Tests.XmlRpc.csproj", "{E5E1C549-9E21-4990-8936-E651D4AFFEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webilim.XmlRpc", "Webilim.XmlRpc\Webilim.XmlRpc.csproj", "{340C4EC4-B02E-42A9-A8FE-2871ED8315E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E1C549-9E21-4990-8936-E651D4AFFEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E1C549-9E21-4990-8936-E651D4AFFEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E1C549-9E21-4990-8936-E651D4AFFEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E1C549-9E21-4990-8936-E651D4AFFEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340C4EC4-B02E-42A9-A8FE-2871ED8315E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340C4EC4-B02E-42A9-A8FE-2871ED8315E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340C4EC4-B02E-42A9-A8FE-2871ED8315E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340C4EC4-B02E-42A9-A8FE-2871ED8315E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
